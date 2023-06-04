@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: shivaladdu/test:7
+      - image: shivaladdu/test:8
         name: myapp
         resources: {}
 status: {}
